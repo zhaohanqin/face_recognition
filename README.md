@@ -1,2 +1,2 @@
 # face_recognition
-一个基于python
+一个基于python的人脸识别系统的设计
